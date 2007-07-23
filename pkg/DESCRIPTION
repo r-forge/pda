@@ -1,0 +1,12 @@
+Package: pda
+Version: 1.2.8
+Date: 2007-03-08
+Author: Brian Yandell <yandell@stat.wisc.edu> 
+Description: Functions and data sets from Yandell's book "Practial Data Analysis for Designed Experiments"
+Maintainer: Brian S. Yandell <yandell@stat.wisc.edu>
+Depends: MASS,lattice,stats,lme4
+LazyData: yes
+LazyLoad: yes
+Title: Practial Data Analysis for Designed Experiments
+License: GPL version 2 or later
+URL: http://www.stat.wisc.edu/~yandell/pda

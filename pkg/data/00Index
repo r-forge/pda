@@ -1,0 +1,23 @@
+Bacteria	Bacteria Affect on Bird Growth
+BactRoom	Bacteria Data per Room
+Berry		Cranberry Energy Balance
+BrandX		Preference for Brand X Detergent
+Brassica	Response to Herbicide
+Budworm		Tobacco Budworm and Pyrethroid
+budworm		Tobacco Budworm and Pyrethroid
+ClonCrit	Cloning Critical Values
+Cloning		Cloning Virus in Plant Sap
+Diet		Diet Effect on Dry Matter Intake
+Drink		Water Temperature Effect on Cow Drinking
+Forage		Forage Effect on Dry Matter Intake
+ForCow		Forage Effect Averaged over Periods
+Growth		Growth Medium for Plant Tissue
+Hardy		Cold Hardiness Adaptation
+Oocyte		Oocyte Development
+Rantwo		Two-Factor Random Effects
+Running		Running and Oxygen Consumption
+Tomato		Find Genes for Tomato Growth
+Tree		Weed Suppression over Time
+TreeAve		Tree averaged over time
+Tukey		Tukey & Mandel Interactions
+WheatPDA	Wheat virus in plant sap
